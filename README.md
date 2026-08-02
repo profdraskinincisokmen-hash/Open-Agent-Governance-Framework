@@ -15,7 +15,7 @@ Rather than treating governance as an external regulatory function, OAGF positio
 
 To develop an open, collaborative, and internationally interoperable governance framework that enables the responsible development and deployment of decentralized AGI.
 
---Governance should evolve alongside AI—not after it.-
+> > **The future of AGI depends not only on more capable intelligence, but on more capable governance.**
 
 ## Why OAGF?
 
