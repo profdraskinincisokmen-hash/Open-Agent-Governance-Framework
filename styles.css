@@ -151,3 +151,38 @@ footer { border-top: 1px solid var(--line); padding: 28px 0; color: var(--muted)
   .node { min-width: 96px; font-size: .72rem; padding: 8px 10px; }
   .core { width: 145px; height: 145px; }
 }
+.hero-buttons{
+    margin-top:40px;
+    display:flex;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.btn{
+    display:inline-block;
+    padding:16px 34px;
+    border-radius:12px;
+    text-decoration:none;
+    font-size:18px;
+    font-weight:700;
+    transition:0.3s;
+}
+
+.btn-primary{
+    background:#0B3A82;
+    color:#fff;
+}
+
+.btn-primary:hover{
+    background:#174f9f;
+}
+
+.btn-secondary{
+    background:#fff;
+    color:#0B3A82;
+    border:2px solid #0B3A82;
+}
+
+.btn-secondary:hover{
+    background:#f3f8ff;
+}
