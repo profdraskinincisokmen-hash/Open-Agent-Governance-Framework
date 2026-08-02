@@ -9,9 +9,11 @@ The **Open Agent Governance Framework (OAGF)** is an interdisciplinary research 
 
 Rather than treating governance as an external regulatory function, OAGF positions governance as an operational capability that continuously supports trustworthy, transparent, secure, and globally interoperable AI ecosystems.
 
+## OAGF Conceptual Architecture
+
 ---<img width="1473" height="971" alt="image" src="https://github.com/user-attachments/assets/db8f3d2a-81a6-43a0-8042-d59c1379174f" />
 
-
+*Figure 1. Conceptual overview of the Open Agent Governance Framework (OAGF), illustrating the Operational Governance Layer (OGL), governance pillars, illustrative use cases, SWOT assessment, and development roadmap.*
 ## Vision
 
 To develop an open, collaborative, and internationally interoperable governance framework that enables the responsible development and deployment of decentralized AGI.
