@@ -70,10 +70,10 @@ The project is currently being developed as an independent interdisciplinary res
 
 ---
 
+
 ## White Paper
 
-**Open Agent Governance Framework (OAGF)**
-
+📄 [Open Agent Governance Framework White Paper](Open%20Agent%20Governance%20Framework.docx)
 *Building the Operational Governance Layer for Decentralized Open-Source AGI Ecosystems*
 
 Version 0.1 – Discussion Draft
