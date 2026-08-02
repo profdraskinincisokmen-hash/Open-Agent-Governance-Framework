@@ -85,7 +85,7 @@ The project is currently being developed as an independent interdisciplinary res
 
 📕 [Download the White Paper (PDF)](Open%20Agent%20Governance%20Framework.pdf)
 
-📝 [Download the White Paper (Word)](Open%20Agent%20Governance%20Framework.docx)
+
 
 
 ---
