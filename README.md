@@ -11,7 +11,7 @@ Rather than treating governance as an external regulatory function, OAGF positio
 
 ## OAGF Conceptual Architecture
 
----<img width="1473" height="971" alt="image" src="https://github.com/user-attachments/assets/db8f3d2a-81a6-43a0-8042-d59c1379174f" />
+<img width="1473" height="971" alt="image" src="https://github.com/user-attachments/assets/db8f3d2a-81a6-43a0-8042-d59c1379174f" />
 
 *Figure 1. Conceptual overview of the Open Agent Governance Framework (OAGF), illustrating the Operational Governance Layer (OGL), governance pillars, illustrative use cases, SWOT assessment, and development roadmap.*
 ## Vision
